@@ -1,0 +1,40 @@
+Must Have:
+1.User login and authentication system
+2.Role-based access for Admin, School Head/Principal, and Student
+3.Admin dashboard
+4.School Head/Principal account creation
+5.Student account creation
+6.Faculty record management
+7.Evaluation form management
+8.School year and semester management
+9.Student faculty evaluation and submission
+10.School Head/Principal faculty evaluation and submission
+11.Centralized faculty evaluation records
+12.Evaluation history viewing
+13.Evaluation reports viewing
+14.User logout functionality
+
+Should Have:
+1.Manage faculty and evaluation records
+2.Evaluation completion monitoring
+3.Printable evaluation reports
+4.Role-based dashboard information
+5.Evaluation period status management
+6.Export functionality for evaluation reports (e.g., PDF or Excel)
+7.Evaluation reminders and notifications
+8.Graphical presentation of evaluation results
+
+Could Have:
+1.Faculty evaluation performance trends
+2.Dashboard statistics and summary cards
+3.Responsive web design for desktop, tablet, and mobile devices
+4.AI chatbot
+
+Won't Have:
+1.Faculty payroll management
+2.Faculty attendance management
+3.Student enrollment management
+4.Student grade management
+5.Faculty promotion management
+6.Mobile application
+7.Biometric authentication
