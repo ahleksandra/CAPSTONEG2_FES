@@ -2,6 +2,7 @@
 
 **Admin:** [bcevaluation.vercel.app/admin](https://bcevaluation.vercel.app/admin)  
 **User:** [bcevaluation.vercel.app](https://bcevaluation.vercel.app)
+**Full Document:** [Google Docs](https://docs.google.com/document/d/1R4Jurgw18IoF2RyKFgx9VGgfWFqCSoUXzs9Pw_I3sTY/edit?usp=sharing)
 
 The Web-based Centralized Faculty Evaluation System is designed to improve the faculty evaluation process by providing a centralized platform for collecting, managing, and organizing evaluation records. The system aims to reduce manual processing, improve accessibility of evaluation results, and make report generation more efficient.
 
